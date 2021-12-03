@@ -1,0 +1,198 @@
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*előétel*Bruschetta*1250*paradicsom,fokhagyma,friss bazsalikom,olívaolaj
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*előétel*Olasz őaraszttál*2490*Pármai sonka,népolyi csipős kolbász,pácolt olívabogyó,articsóka,mozzarella golyó,aszalt paradicsom
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*előétel*Grillezett Camambert*2290*Naramcsos rukkola,saláta
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*előétel*Krémsajttal töltött jalapeno*2090*sajt,jalapeno
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*előétel*Lazactatár*2790*rukkola,piritos
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*saláták*Római saláta*2490*grillezett csirkemell-szeletek,koktélparadicsom,mozzarella golyók,fekete olívabogyó,ropogós római saláta
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*saláták*Nizzai tonhal saláta*2690*tonhal, paradicsom, fekete olívabogyó, salátalevelek, lilahagyma, főtt tojás, fokhagymás bagett
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*saláták*Citromos Ráksaláta*3290*Koktélparadicsom, salátalevelek , lila hagyma, olívabogyó, mézes-citromos dressing
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*saláták*Mediterrán Bulgursaláta csirkemellel*2890*roston csirkemellel
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*tészták és rizottók*Gorgonzola sajtos gnocchi*2290*Gorgonzola sajtos, parajos burgonya gnocchi, pirított diós morzsával
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*tészták és rizottók*Penne all arrabbiata*2090*csípős fokhagymás paradicsom raguval
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*tészták és rizottók*Citromos spaghetti*2090*citromos spaghetti friss chilivel
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*tészták és rizottók*Sült Gnocchi*2790*Olasz csípős kolbász, arrabiatta, mozzarella
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*tészták és rizottók*Zsenge zöldborsós casarecce*2490*zöldborsóval, szárított paradicsommal parmezánmártásban, csirkehússal
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*tészták és rizottók*Kolbászos casarecce*2490*szárított paradicsom, pirított csípős kolbász, fokhagymás paradicsom szósz
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*tészták és rizottók*Bolognai spaghetti*2490*bolognai spaghetti
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*tészták és rizottók*Erdei gombás rizottó*2590*
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*tészták és rizottók*Ricottával töltött ravioli*2190*ruccolás ricottával töltött ravioli, paradicsomos bazsalikomos raguban, mozzarella golyókkal
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*tészták és rizottók*Pármai sonkás tagliatelle*2490*tejszínes fokhagymás raguval,gomba, ruccolával
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*tészták és rizottók*Csípős kolbászos rizottó*2690*ruccolával és parmezán forgáccsal
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*tészták és rizottók*Spaghetti carbonara*2390*
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*tészták és rizottók*Lasagne*2590*
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*tészták és rizottók*Csirkés-zöldséges rizotto*2690*
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*tészták és rizottók*Vongole Spaghetti*2990*Vénuszkagyló, koktélparadicsom, chili
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*tészták és rizottók*Olasz paradicsomos húsgombóc, spaghettivel*2690*
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*levesek*Dél-olasz halleves*2690*paradicsomos fokhagymás bagettel, fekete kagyló, zöld kagyló, garnélarák, vajhal, lazac, fehérbor, sáfrány, csípős peperoncino paprika, paradicsom, fokhagyma
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*levesek*Nápolyi paradicsomleves*1190*mozzarellával
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*levesek*Borjú eszencia*1250*vele főtt húsával, zöldségekkel, filini metélttel
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*levesek*Minestrone leves*1190*olasz zöldségleves
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*levesek*Eperkrémleves*1190*lime habbal
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*halételek*Garnélarák-farok spaghettivel*3890*paradicsomos , csípős raguval,spagettivel
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*halételek*Lazacfilé kakukkfűágon sütve*4090*olasz grill zöldségekkel paradicsom konkasszéval
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*halételek*Garnélarák sáfrányos rizottóval*3890*fokhagymás garnélarák, sáfrányos rizottóval, paradicsom salsával
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*halételek*Grillezett tintahal*3890*fokhagymás petrezselymes tintahal, olivával, friss kevert salátával, pizzakenyérrel
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*halételek*Lazacfilé koktélrákos rizottóval*4090*
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*halételek*Panko morzsás rákfarok*3990*citrusos salátával, édes chilis mártogatóssal
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Húsételek*Kakukkfüves csirkemellfilé*2990*kakukkfüves vajon sült csirkemellfilé, parmezános burgonyapürével és ruccolás paradicsomsalátával
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Húsételek*Vajas-citromos borjuszeletek*4490*pirított laskagombával, bazsalikomos parázsburgonyával
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Húsételek*Parmezános borjúszelet*4590*sült fokhagymás burgonyapürével, friss kevert salátával
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Húsételek*Töltött csirkemell fűszeres bundában*3490*szárított paradicsommal és mozzarellával töltött csirkemell fűszeres bundában, grill zöldséges parázsburgonyával, és paradicsommártással
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Húsételek*Mézes- cjilis kacsamell*3490*borsós rizzsel
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Húsételek*Bélszín steak (20 dkg)*5690*zöldsalátával, sült fokhagymás burgonyapürével vagy pirított burgonya, gomba sült paradicsom, rukkola
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Húsételek*Bélszín steak (40 dkg)*8990*zöldsalátával, sült fokhagymás burgonyapürével vagy pirított burgonya, gomba sült paradicsom, rukkola
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Húsételek*Panco morzsás csirkemell*3390*mézes chilis mártogatóssal, friss kevert salátával
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Húsételek*Vargányás kacsamell*4490*olasz grill zöldségekkel, paraázsburgonyával
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Húsételek*Csirkemell steak*2990*cézársalátával, pizzakenyérrel
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Húsételek*Egészben sült borjú*4490*Erdei gombamártással, burgonyapürével
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Húsételek*Jalapenos csirkemell*3490*
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*Margherita*1790*paradicsomszósz, bazsalikom, mozzarella sajt
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*Prosciutto*1990*paradicsom, sonka, mozzarella sajt
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*Prosciutto e funghi*2090*paradicsom, sonka, gomba, mozzarella sajt
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*Diavolo*2290*paradicsom, csípős olasz kolbász, pfefferoni, mozzarella sajt
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*Tonno*2590*paradicsom, tonhal, hagyma, mozzarella sajt
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*Quattro formaggi*2390*paradicsom, mozzarella, brie, gorgonzola, parmezán
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*La nonna*2790*paradicsom, pármai sonka, koktélparadicsom, ruccola
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*Frutti di mare*2990*paradicsom, tengeri gyümölcs mix
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*Bolognese*2390*paradicsom, bolognai ragu, mozzarella
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*Grande*2390*paradicsom, sonka, szalámi, paprika, kukorica mozzarella
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*Grano*2390*Paradicsom , csípős olasz kolbász , aszalt paradicsom, kukorica, mozzarella
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*Contadina*2390*Paradicsom, bacon, gorgonzola, articsóka, mozzarella
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*Pollo e olive*2490*Paradicsom, csirkemell, lila hagyma, olívabogyó, fokhagyma , mozzarella
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*Bianca*2790*Fior di latte, pecorino, prosciutto crudo, koktélparadicsom, bazsalikom
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*Ungherese*2490*paradicsom, csípős szalámi, lila hagyma, pfefferoni, bacon , mozzarella
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*Va bene*3490*paradicsom, bélszín csíkok, rukkola, balzsamecet, mozzarella
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Pizzák*Pizza Pesto con Burrata*3190*Házi pesto, mozzarella, olasz szalámi, burrata, pisztácia
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Desszertek*Étcsokoládé torta*1190*eperöntettel és fehércsoki mártással
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Desszertek*Tiramisu*1190*
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Desszertek*Panna cotta*1190*Friss gyümölcsökkel, eper, csoki vagy karamell öntettel
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Desszertek*Limeos Sajttorta*1190*eperöntettel
+Pizzadel Grano*Pécs, Búza tér 2, 7626*10:00-22:00*olasz*Desszertek*Profiterol*1190*
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Piták*Gyros pita - csirke*1290*csirkehús, paradicsom, lilahagyma, tzatziki, hasábburgonya
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Piták*Gyros pita - borjú*1390*borjúhús, paradicsom, lilahagyma, tzatziki, hasábburgonya
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Piták*Souvlaki pita*1290*souvlaki (csirkenyárs), tzatziki, lilahagyma, paradicsom, hasábburgonya
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Piták*XL Gyros pita - csirke*1690*csirkehús, paradicsom, lilahagyma, tzatziki, hasábburgonya
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Piták*XL Gyros pita - borjú*1790*borjúhús, paradicsom, lilahagyma, tzatziki, hasábburgonya
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Piták*XL Souvlaki pita*1690*2db souvlaki (csirkenyárs), tzatziki, paradicsom, lilahagyma, hasábburgonya
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Piták*Souvlaki nyárs*590*
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Piták*Halloumi pita*1290*halloumi (grillsajt), paradicsom, lilhagyma, hasábburgonya
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Tálak*Gyros tál - csirke*2190*csirkehús, pita, hasábburgonya, tzatziki, paradicsom, uborka, lilahagyma
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Tálak*Gyros tál - borjú*2290*borjúhús, pita, hasábburgonya, tzatziki, paradicsom, uborka, lilahagyma
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Tálak*Souvlaki tál*2190*2db souvlaki, pita, hasábburgonya, tzatziki, paradicsom, uborka
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Egyéb*Meze*1190*előétel válogatás - padlizsánkrém, tzatziki, tirokafteri, olivabogyo, pita
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Egyéb*Horiatiki görög saláta*1390*feta sajt, oliva, paradicsom, uborka, lilahagyma
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Extrák*Tzatziki*250*
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Extrák*Tirokafteri (csípős fetakrém)*300*
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Extrák*Csípős szósz*250*
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Extrák*Pita*200*
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Extrák*Hasábburgonya*490*
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Extrák*Kalamata olivabogyó*290*
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Extrák*Padlizsánkrém*490*
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Extrák*Halloumi*490*
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Extrák*Extra hús*490*
+Stavros*Pécs, Rákóczi út 71, 7621*11:00–21:30*görög*Extrák*Édesség*790*Granola, görög joghurt, akácméz*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Tálak*Fiáker tál 2 személyre*4880*Cigánypecsenye, rántott sajt, mozarellás-paradicsomos csirkemell, Zengővárkonyi sertésszelet, rizs , steak burgonya , vegyes saláta
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Tálak*Egyszemélyes bőségtál*3080*Füstölt tarjával és tormával töltött karaj rántva, mustáros hátszín, óvári csirkemell, hasábburgonya, rizs, káposztasaláta
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Tálak*Haltál*2880*Lazacfilé roston, rántott tengeri hal, rántott ponty, petrezselymes burgonya, tartármártás
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Tálak*Kánaán tál*4880*rántott szelet, szezámmagos rántott camambert, roston sült csirkemell, mustáros flekken, vegyes köret
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Tálak*Giga tál*6480*mustáros hátszín, csirkegordon, roston camambert, több magvas rántott szelet, édes burgonya, friss, vegyes saláta
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Tálak*Egyszemélyes grill tál*3080*mustáros hátszín, roston sült csirkemell bacon köntösben, cigánypecsenye, grillezett zöldségek, rizs
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Tálak*Vegetáriánus tál*2400*rántott sajt, rántott gombafejek, grillezett zöldségek, hasábburgonya, tartármártás
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Levesek*Húsleves cérnametélttel*580*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Levesek*Tárkonyos csirkeragu leves*720*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Levesek*Babgulyás*920*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Levesek*Hideg gyümölcskrém leves*680*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Levesek*Gulyásleves*920*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Levesek*Fokhagyma krémleves*580*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Vegetáriánusoknak*Rántott sajt, tartár*1680*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Vegetáriánusoknak*Roston camembert, áfonyalekvár*2080*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Vegetáriánusoknak*Camambert sajt szezámmagos bundában, áfonya lekvár*2080*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Vegetáriánusoknak*Feta sajttal töltött rántott gomba*1880*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Vegetáriánusoknak*Rántott gomba, tartár*1680*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Tészták*Carbonara spagetti*1680*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Tészták*Csirkemelles spagetti sajtmártásban*1880*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Tészták*Bolognai spagetti*1680*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Tészták*Paradicsomos-mozzarellás gnocchi*1680*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Roston sült csirkemell*1680*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Rántott csirkemell*1680*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Aszalt szilvával és gesztenyével töltött csirkemell rántva*2080*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Csirkemell roston, fűszeres tejföllel és reszelt sajttal*1880*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Sonkával - sajttal töltött pulykamell rántva*2080*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Rántott sertésszelet*1680*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Cigánypecsenye*2480*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Zengővárkonyi sertésszelet rántva*2080*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Párizsi szűzpecsenye fűszeres tejföllel és reszelt sajttal*2280*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Rántott szűzpecsenye zöldbors mártással sült*2280*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Hagymás rostélyos*2680*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Marhapörkölt galuskával*2680*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Rántott csirkemell szezámmagos bundában*1880*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Rostonsült csirkemell sajtmártásban*1880*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Mozzarellás-paradicsomos csirkemell csőben sütve*2080*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Füstölt sajttal és baconnel töltött rántott csirkemell*2080*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Bolognai csirkemell*2280*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Füstölt tarjával és tormával töltött rántott karaj*2080*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Szűzpecsenye roston tejszínes-kapros mártással*2280*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Frissensültek*Bakonyi hátszín*2680*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Halételek*Rántott ponty patkó*1880*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Halételek*Tengeri halszeletek rántva*2280*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Halételek*Lazacfilé roston*2880*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Halételek*Harcsapaprikás, galuska*2680*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Fitness ételek*Lazacfilé roston, kerti salátaagyon*2880*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Fitness ételek*Friss vegyes saláta*1080*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Fitness ételek*Görög saláta*1280*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Fitness ételek*Csirkemelles rizottó grillezett zöldségekkel*2080*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Fitness ételek*Friss saláta grillezett csirkemell csíkokkal*2280*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Köretek*Rizs*380*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Köretek*Rizibizi*400*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Köretek*Hasábburgonya*480*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Köretek*Krokett*480*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Köretek*Steak burgonya*480*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Köretek*Édesburgonya hasáb*680*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Köretek*Rosti burgonya*480*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Köretek*Galuska*380*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Saláták*Káposztasaláta*380*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Saláták*Paradicsomsaláta*440*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Saláták*Csemege uborka*380*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Desszertek*Gesztenyepüré*660*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Desszertek*Palacsinta*480*
+Fiáker Étterem*Pécs, Boltív köz 2, 7621*11:30–21:30*Magyaros*Desszertek*Gundel palacsinta*760*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Leves*Csípős-savanyú Leves*750*tojás,csirke,fafülgomba,répa,zöldborsó
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Előételek*Mini Tavaszi Tekercs(6db)*600*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Előételek*Mini Tavaszi Tekercs(12db)*1100*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Előételek*Sült Rák(1db)*220*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Előételek*Sült Rák(6db)*1150*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Előételek*Zöldséges Lepény*350*káposzta,répa,zöldborsó,hagyma,tésztalepény
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Előételek*Zöldséges Golyó(5db)*600*káposzta,répa,zöldborsó,hagyma,tésztagolyó
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Előételek*Rákszirom*300*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Wok ételek*Thai Csirke*2490*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Wok ételek*Thai Kacsa*2590*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Wok ételek*Thai Marha*2590*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Wok ételek*Thai Rák*2690*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Wok ételek*Thai Tengergyümölcsei*2690*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Wok ételek*Thai Zöldség*2090*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Főételek*Szezámmagos Csirke*1690*tésztabunda,édes-csípős mártás,szezámmag
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Főételek*Fafülgombás Csirke*1690*répa,bambusz,szezonális zöldségek
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Főételek*Fekete Borsos Csirkemáj*1600*Csirkemáj,hagyma,répa,ceruzabab,szezonális zöldségek 
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Főételek*Illatos Omlós Csirke*1690*tésztabunda
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Főételek*Gong Bao Csirke*1690*Csirkemell, hagyma,répa,uborka,földimogyoró, 
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Főételek*Chilis Kacsa*1830*Kacsamell csíkok, káposzta, répa, csípős mártás, szezonális zöldségek
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Főételek*8-kincs Mártás*1690*Csirke- és kacsamell, marha, répa, káposzta, ceruzabab, zöldborsó, kukorica, csípős mártás, szezonális zöldségek
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Főételek*Szechuáni Marha*1890*Marha,káposzta, répa,kaliforniai paprika, hagyma, csípős mártás, szezonális zöldségek
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Főételek*Illatos Omlós Kacsamell*2300*Kacsamell, tésztabunda
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Főételek*Pirított Zöldséges Rák*2300*Garnélarák, vegyes zöldségek
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Saláták,savanyúságok*Babcsíra Saláta*650*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Saláták,savanyúságok*Édes Káposzta Saláta*650*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Saláták,savanyúságok*Csípős Káposzta Saláta*650*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Saláták,savanyúságok*Uborka Saláta*650*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Szószok*Édes chili szósz*200*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Szószok*Chili szósz*200*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Szószok*Édes-savanyú szósz*200*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Szószok*Szójaszósz*200*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Köretek*Pirított Tojásos Rizs*850*rizs,tojás,répa,zöldborsó
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Köretek*Pirított Zöldséges Rizstészta*900*répa,ceruzabab,káposzta
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Köretek*Fúszeres Burgonya Gerezd*850*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Desszertek*Diós Marlenka*650*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Desszertek*Csokis Marlenka*650*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Desszertek*Sült dió*0*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Desszertek*Szerencse Süti*200*
+Sherry kinai étterem*Budai Vám utca 1 TESCO, Pécs, 7630*11:00-20:30*Kínai*Evőeszköz*Pálcika*80*
